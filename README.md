@@ -2,7 +2,7 @@
 
 > News Feed App using React and News API. Displaying Top Headline and Search for news 
 
-## OMDB API
+## News API
 
 Get your API key and add to the .env file
 
